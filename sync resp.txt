@@ -5,3 +5,8 @@
 4，git pull origin master,则同步信息到本地.
 
 上传修改文件到网页：
+1，修改内容
+2，使用git status的时候会看到修改的文件， modified：。。。。
+3，git add 文件名 / -A   //全部添加
+4，git commit -m "  "
+5, git push origin master 上传
